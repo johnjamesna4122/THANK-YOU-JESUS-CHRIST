@@ -1,0 +1,67 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<files>
+<file name="201398.jpg" source="original">
+<format>JPEG</format>
+<mtime>1393304467</mtime>
+<size>21121</size>
+<md5>63374865f6a715c754db03a776bead66</md5>
+<crc32>d9bff7dc</crc32>
+<sha1>963f60a63c8b48a40702fceaee4a52e859c46c41</sha1>
+<rotation>0</rotation>
+</file>
+<file name="201398_thumb.jpg" source="derivative">
+<format>JPEG Thumb</format>
+<original>201398.jpg</original>
+<mtime>1393304490</mtime>
+<size>1577</size>
+<md5>fed0a7c0fdc0dbb66053676716e0325a</md5>
+<crc32>3f0e3a3b</crc32>
+<sha1>52289f7e63152c1566d366d13bf7fe3fb0b2f92d</sha1>
+</file>
+<file name="__ia_thumb.jpg" source="original">
+<mtime>1711765673</mtime>
+<size>15374</size>
+<md5>e3b6eee0e7b0283448f10db99ea8531f</md5>
+<crc32>f378d9fd</crc32>
+<sha1>b2f47315a26bad88ea6ce29a1602e512b3060458</sha1>
+<format>Item Tile</format>
+</file>
+<file name="mma_saint_john_201398_archive.torrent" source="metadata">
+<btih>f67a718e4ab4593ab0c241192b9ac66ba04f85f4</btih>
+<mtime>1473046902</mtime>
+<size>2077</size>
+<md5>4d96926aeddd07be2fbab00bb4b02bec</md5>
+<crc32>c55ea24d</crc32>
+<sha1>e1e70f6bc1ab80b880a40294521969723efde08c</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="mma_saint_john_201398_files.xml" source="original">
+<format>Metadata</format>
+<md5>b4b4b80d95ca70f47007e36f65fee34c</md5>
+<summation>md5</summation>
+</file>
+<file name="mma_saint_john_201398_meta.sqlite" source="original">
+<format>Metadata</format>
+<mtime>1393304481</mtime>
+<size>11264</size>
+<md5>8f805db36dc58eeac0d9989743b1515e</md5>
+<crc32>379c788f</crc32>
+<sha1>15e5bced57ebb4f4ac6865e71990f975212e42f2</sha1>
+</file>
+<file name="mma_saint_john_201398_meta.xml" source="original">
+<format>Metadata</format>
+<mtime>1473046901</mtime>
+<size>1778</size>
+<md5>54e9f358a3538c4853b274721ba53162</md5>
+<crc32>ae49edce</crc32>
+<sha1>c176c16e187f8bf63f2b113dfb04eb8af85c5324</sha1>
+</file>
+<file name="mma_saint_john_201398_mma.json" source="original">
+<format>JSON</format>
+<mtime>1393304476</mtime>
+<size>4217</size>
+<md5>d080f52ebf1913c8e292dddf86c2deb1</md5>
+<crc32>255dcf3a</crc32>
+<sha1>671fdbd6436f8de377127a547753d4c5ceaf6089</sha1>
+</file>
+</files>

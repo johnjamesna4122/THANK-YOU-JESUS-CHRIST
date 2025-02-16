@@ -1,0 +1,37 @@
+ GOD THANK YOU 
+<metadata>
+<identifier>mma_the_virgin_mary_202388</identifier>
+<accession_number>60.37.1</accession_number>
+<collection>metropolitanmuseumofart-gallery</collection>
+<culture>Italian, Siena</culture>
+<date>late 15th century</date>
+<dimensions>H. 7-5/8 in. (19.4 cm);, H. of base ca. 3-3/16 in. (8.1 cm.)</dimensions>
+<gallery_id>500</gallery_id>
+<mediatype>image</mediatype>
+<medium>Partially gilt bronze</medium>
+<provenance>[ John J. Klejman , 1960, sold to MMA ]</provenance>
+<scanner>Internet Archive Python library 0.5.1</scanner>
+<subject>Europe</subject>
+<title>The Virgin Mary</title>
+<what>Metal, Sculpture, Copper alloy, Bronze, Gilt, Statues, Figurines, Europe, Italy, Tuscany, Siena, late 15th century, Italian, Siena, Partially gilt bronze, Metropolitan Museum of Art</what>
+<where>Europe, Italy, Tuscany, Siena</where>
+<subject>Statues</subject>
+<subject>Tuscany</subject>
+<subject>Italian, Siena</subject>
+<subject>Metropolitan Museum of Art</subject>
+<subject>Figurines</subject>
+<subject>Metal</subject>
+<subject>late 15th century</subject>
+<subject>Siena</subject>
+<subject>Gilt</subject>
+<subject>Italy</subject>
+<subject>Copper alloy</subject>
+<subject>Sculpture</subject>
+<subject>Bronze</subject>
+<subject>Partially gilt bronze</subject>
+<publicdate>2014-02-25 05:11:43</publicdate>
+<uploader>kaplan@archive.org</uploader>
+<addeddate>2014-02-25 05:11:43</addeddate>
+<rights><a href="http://www.metmuseum.org/information/terms-and-conditions" rel="nofollow">Metropolitan Museum of Art Terms and Conditions</a></rights>
+<backup_location>ia905804_27</backup_location>
+</metadata>

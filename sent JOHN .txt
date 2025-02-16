@@ -1,0 +1,38 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<metadata>
+<identifier>mma_saint_john_201398</identifier>
+<accession_number>52.28</accession_number>
+<collection>metropolitanmuseumofart-gallery</collection>
+<culture>Italian, Siena</culture>
+<date>late 15th century</date>
+<dimensions>H. 7-7/16 in. (18.9 cm) without base;, H. 9-1/16 in. (23 cm.) with base</dimensions>
+<gallery_id>500</gallery_id>
+<mediatype>image</mediatype>
+<medium>Bronze, on marble pedestal</medium>
+<provenance>[ Ars Antiqua Inc. , 1952, sold to MMA ]</provenance>
+<scanner>Internet Archive Python library 0.5.1</scanner>
+<subject>Europe</subject>
+<title>Saint John</title>
+<what>Metal, Sculpture, Copper alloy, Bronze, Statues, Figurines, Marble, Pedestals, Europe, Italy, Tuscany, Siena, late 15th century, Italian, Siena, Bronze, on marble pedestal, Metropolitan Museum of Art</what>
+<where>Europe, Italy, Tuscany, Siena</where>
+<subject>Statues</subject>
+<subject>Tuscany</subject>
+<subject>Italian, Siena</subject>
+<subject>Pedestals</subject>
+<subject>Figurines</subject>
+<subject>Metal</subject>
+<subject>Metropolitan Museum of Art</subject>
+<subject>Bronze, on marble pedestal</subject>
+<subject>late 15th century</subject>
+<subject>Siena</subject>
+<subject>Italy</subject>
+<subject>Copper alloy</subject>
+<subject>Sculpture</subject>
+<subject>Marble</subject>
+<subject>Bronze</subject>
+<publicdate>2014-02-25 05:01:07</publicdate>
+<uploader>kaplan@archive.org</uploader>
+<addeddate>2014-02-25 05:01:07</addeddate>
+<rights><a href="http://www.metmuseum.org/information/terms-and-conditions" rel="nofollow">Metropolitan Museum of Art Terms and Conditions</a></rights>
+<backup_location>ia905804_27</backup_location>
+</metadata>

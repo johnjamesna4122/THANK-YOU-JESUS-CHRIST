@@ -1,0 +1,67 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<files>
+<file name="202388.jpg" source="original">
+<format>JPEG</format>
+<mtime>1393305102</mtime>
+<size>37079</size>
+<md5>84131f1094998bf626c89c7699c8ccd1</md5>
+<crc32>a6cc0703</crc32>
+<sha1>0d71a16849a53c08cfb60e47d2292b7172189e12</sha1>
+<rotation>0</rotation>
+</file>
+<file name="202388_thumb.jpg" source="derivative">
+<format>JPEG Thumb</format>
+<original>202388.jpg</original>
+<mtime>1393305154</mtime>
+<size>2476</size>
+<md5>c8ade9911baa6f89f151ef94a64f9bf4</md5>
+<crc32>dfaf04e0</crc32>
+<sha1>96957ceeb628563cc8220d9d25e4a6a47c416b92</sha1>
+</file>
+<file name="__ia_thumb.jpg" source="original">
+<mtime>1711653557</mtime>
+<size>18216</size>
+<md5>93a5f674b773250811e78abd6e93e025</md5>
+<crc32>eae3bb40</crc32>
+<sha1>b1b980130f274f89f1129e788192a4c241cd7eda</sha1>
+<format>Item Tile</format>
+</file>
+<file name="mma_the_virgin_mary_202388_archive.torrent" source="metadata">
+<btih>27b00f89734bce567066143a84537b9fc791bbb3</btih>
+<mtime>1473164219</mtime>
+<size>2127</size>
+<md5>cd9ff48038d3f3a335f64771772db080</md5>
+<crc32>94f5ae83</crc32>
+<sha1>a7f3f5372518cafd58b43b12006bccb91e2559af</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="mma_the_virgin_mary_202388_files.xml" source="original">
+<format>Metadata</format>
+<md5>72a0790f5506897a3561739bc484a2d3</md5>
+<summation>md5</summation>
+</file>
+<file name="mma_the_virgin_mary_202388_meta.sqlite" source="original">
+<format>Metadata</format>
+<mtime>1393305126</mtime>
+<size>11264</size>
+<md5>d50a039325d0cc29d2a7fbaa111286ac</md5>
+<crc32>a77936ec</crc32>
+<sha1>74f611d883a2445aa6e9933b82eb3f0ecba57fe4</sha1>
+</file>
+<file name="mma_the_virgin_mary_202388_meta.xml" source="original">
+<format>Metadata</format>
+<mtime>1473164218</mtime>
+<size>1717</size>
+<md5>fdfaa05f8d7ad45e67c7aa0ac0fb3cb8</md5>
+<crc32>9ae3d611</crc32>
+<sha1>4019be525d95ee64ccc4b7228e739b7db115230a</sha1>
+</file>
+<file name="mma_the_virgin_mary_202388_mma.json" source="original">
+<format>JSON</format>
+<mtime>1393305116</mtime>
+<size>4397</size>
+<md5>1ed553bd9c3b5bde232ce564ab19f1d3</md5>
+<crc32>2e42ea20</crc32>
+<sha1>9fbab6fdc0f1dc21ef33c541131527e85a26f1a6</sha1>
+</file>
+</files>
