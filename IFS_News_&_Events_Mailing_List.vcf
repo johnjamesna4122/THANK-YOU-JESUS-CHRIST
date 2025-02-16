@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+PROFILE:VCARD
+URL;VALUE=URI:http://www.ifs.org.uk/
+N;CHARSET=UTF-8:Emma Hyman;;;;
+FN;CHARSET=UTF-8:Emma Hyman
+ORG;CHARSET=UTF-8:Institute for Fiscal Studies
+EMAIL:mailbox@ifs.org.uk
+ADR;CHARSET=UTF-8:;;7 Ridgmount Street,;London;;WC1E 7AE;United Kingdom
+END:VCARD
